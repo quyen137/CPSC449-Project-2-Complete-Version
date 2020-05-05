@@ -3,7 +3,7 @@ import redis
 import flask_api
 from flask import request, Flask
 from flask_api import status, exceptions
-import pugsql
+
 import datetime
 import json
 
